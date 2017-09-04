@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Curriculo teste </title>
+</head>
+<body>
+  <h1 align = 'center' <b> Curriculo </h1> </b>
+  <img src="WhatsApp Image 2017-09-03 at 17.15.45.jpeg" alt="foto" width= "135"height="215">
+  <h3><b><u> 1 - Dados Pessoais </h3> </u>
+    <h4><b>Nome:</b>
+       Érika Caroline Soares Damasceno </h4>
+
+    <h4>Data de Nascimento: 05/04/1997 </h4>
+
+    <h4>Endereço: Rua Padre Bartolomeu Sipolis, número 121 </h4>
+    <h4>Email: erikacsd@hotmail.com </h4>
+
+    <h4>Telefone: (38) 998079010 </h4>
+
+    <h3><b> <u>2 - Formação </u></b></h3>
+
+    Ensino Médio: Instituição Educacional Barreiro Grande - concluído em 2014 </h4>
+    <h4><b>Ensino Superior: Bacharelado em Sistemas de Informação - em andamento </h4>
+      <h4>Previsão de conclusão: Dezembro/2021 </h4>
+        Período: 2°
+
+
+    <h3><b> <u>3 - Dados Profissionais </h3></b> </u>
+
+    <h4><b>Empresa: Next Step</b><p>
+    Cargo: Secretária Geral<p>
+    Ano Entrada: 2017 <p>
+        </h4></b>
+
+    <h4>    <u> Objetivos: </u> <h4> Ganhar experiência e conhecimento na minha
+        área e agregar valor ao meu currículo. </h4>
+
+
+
+    </body>
+
+    </html>
